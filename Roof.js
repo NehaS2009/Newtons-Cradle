@@ -1,4 +1,4 @@
-class Roof
+class roof
 {
 	constructor(x,y,w,h)
 	{
